@@ -10,7 +10,8 @@ es_source = XMLIdealGeometryESSource {
 		"Geometry/FP420CommonData/data/zzzrectangle.xml",
 		"Geometry/FP420CommonData/data/materialsfp420.xml",
 		"Geometry/FP420CommonData/data/FP420Rot.xml",
-		"Geometry/FP420SimData/data/fp420sens.xml"
+		"Geometry/FP420SimData/data/fp420sens.xml",
+ 		"Geometry/FP420SimData/data/FP420ProdCuts.xml"
 	}
 	string rootNodeName = "cms:OCMS"
 }
